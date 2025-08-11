@@ -12,7 +12,7 @@ Java SE 8 or higher
 
 4. ⚙️ Setup
 Clone the repository:
-git clone https://github.com/yourusername/snake-game-java.git
+git clone https://github.com/RayCinco/first_project_snake_game.git
 
 Navigate to the project folder:
 cd snake-game-java
